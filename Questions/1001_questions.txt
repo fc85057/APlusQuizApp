@@ -1,0 +1,1024 @@
+CompTIA A+ 220-1001 Question A-1
+A systems administrator is configuring a server to host several virtual machines. The administrator configures the server and is ready to begin provisioning the virtual machines. Which of the following features should the administrator utilize to complete the task?
+A. Hypervisor
+B. Disk management
+C. Terminal services
+D. Device Manager
+E. Virtual LAN
+
+
+CompTIA A+ 220-1001 Question A-3
+A user accidentally spills liquid on a laptop. The user wants the device to be fixed and would like to know how much it will cost. Which of the following steps should the technician take NEXT to verify if the device is repairable before committing to a price? (Choose two.)
+A. Remove the case and organize the parts.
+B. Document the screw locations.
+C. Search the Internet for repair tutorials.
+D. Consult colleagues for advice.
+E. Place the device in rice for a few days.
+
+
+CompTIA A+ 220-1001 Question A-4
+A user is experiencing email problems and explains to a technician that all emails with graphics or images do not display the graphics. Which of the following configurations would correct this behavior?
+A. Change the email settings in antivirus.
+B. Change the security settings of the email client.
+C. Change the firewall security settings.
+D. Change the email proxy settings.
+E. Change the trusted sites in the browser settings.
+
+
+CompTIA A+ 220-1001 Question A-5
+A technician is replacing an older video card with a new high-end video card in a workstation. The installation was successful, the new card seated properly, and power is connected. However, upon booting, the computer now emits several beeps and will not boot, but shows no error messages. Which of the following is MOST likely the cause of this issue?
+A. The BIOS is out-of-date
+B. The is not enough PSU output
+C. There is an onboard RAM mismatch
+D. GPU is overlocked
+E. The firmware is out-of-date
+
+
+CompTIA A+ 220-1001 Question A-6
+A technician is setting up a VM for use in testing software deployments. The VM is offline, but the hypervisor is not. Which of the following settings should the technician change to resolve this issue?
+A. Virtual security
+B. Virtual storage
+C. Virtual CPU
+D. Virtual switch
+E. Virtual RAM
+
+
+CompTIA A+ 220-1001 Question A-7
+A user’s laptop is shutting down unexpectedly. The technician discovers the shutdowns only happen when the laptop is moved from one room to another. The technician reseated the hard drive, memory, battery, and LCD cable, but the laptop continues to shut down. Which of the following is the MOST probable cause of the issue?
+A. Residual energy on the motherboard
+B. System overheating
+C. Distended capacitors
+D. Loose battery connection
+E. CMOS battery failure
+
+
+CompTIA A+ 220-1001 Question A-8
+A technician was called to check an unexpected clicking noise on a desktop that has become more frequent every time a video editing application is loaded. The system fans have been replaced, but the clicking noise remains. Diagnostics have been run on the video card. Which of the following should me the technician do FIRST?
+A. Replace the hard drive.
+B. Replace the video card.
+C. Do a System Restore.
+D. Perform a full data backup.
+E. Scan the system for viruses.
+
+
+CompTIA A+ 220-1001 Question A-9
+Which of the following ports are used for secure sessions? (Select two.)
+A. 22
+B. 23
+C. 25
+D. 80
+E. 110
+F. 443
+
+
+CompTIA A+ 220-1001 Question A-10
+A technician has been asked to fix a problem with a projector. The projector lamp turns off for brief periods during a demonstration. After the technician replaced the lamp, the problem continued with an added message that appears just before the lamp turns off. Which of the following MOST likely need to be performed? (Choose two.)
+A. Reset the lamp life counter
+B. Replace the cooling fan
+C. Adjust the brightness
+D. Update the laptop video driver
+E. Install a higher lumen lamp
+F. Change the video resolution
+
+
+CompTIA A+ 220-1001 Question A-11
+A user printed several documents to a shared network copier and noticed that they have very faint color density. A technician investigates the issue and verifies that the printer had a maintenance kit installed recently. Which of the following next steps will MOST likely resolve the issue? (Select two.)
+A. Replace the toner cartridges
+B. Replace the fuser module
+C. Clean the paper tray rollers
+D. Adjust the printer settings
+E. Replace the developer
+F. Empty the waste toner bottlers
+
+
+CompTIA A+ 220-1001 Question A-12
+A customer wants to purchase a new home computer. The machine will mainly be used for internal browsing and streaming video, except on weekends when the customers’ son will use it to play games with friends. Which of the following should the technician focus on to meet these requirements?
+A. 80mm case fans
+B. Four-core processor
+C. RAID 5 array
+D. 16GB DDR2 memory
+E. Dual monitors
+F. Encrypted hard drive
+
+
+CompTIA A+ 220-1001 Question A-13
+Which of the following features will save the battery life of a laptop significantly if they are disabled? (Choose two.)
+A. Touchpad
+B. Volume
+C. Screen orientation
+D. Cellular
+E. Bluetooth
+F. Fingerprint reader
+
+
+CompTIA A+ 220-1001 Question A-14
+Which of the following peripherals would a company use to take inventory quickly and update price tags for products? (Choose two.)
+A. Barcode scanner
+B. Label printer
+C. Magnetic reader
+D. KVM switch
+E. NFC device
+F. Flatted scanner
+
+
+CompTIA A+ 220-1001 Question A-15
+A technician needs to routinely run scripting commands in Linux but does not want to walk over the server room every time to perform the task. The technician also travels between buildings and has a Windows 10 laptop with 4GB of memory and a fully partitioned 500GB hard drive. Which of the following steps should the technician take to resolve this issue? (Choose two.)
+A. Increase the memory to 8GB.
+B. Install a Linux guest VM.
+C. Add another 500GB hard drive.
+D. Create a Linux LiveBoot CD.
+E. Repartition the hard drive.
+F. Install Linux on a new ext3 partition.
+
+
+CompTIA A+ 220-1001 Question A-16
+A server administrator set up a VM to be used in a lab setting. A technician is setting up thin-client computers to access this VM. Which of the following tasks are required to complete the project? (Choose three.)
+A. Connect the device to a printer.
+B. Install the operating system.
+C. Install a USB keyboard and mouse.
+D. Connect the device to the network.
+E. Install the latest system updates.
+F. Install the latest device drivers. 
+G. Connect the device to a monitor. 
+H. Install the necessary applications.
+
+
+CompTIA A+ 220-1001 Question A-17
+A customer contacts the help disk stating a laptop does not remain charged for more than 30 minutes and will not charge more than 15%. Which of the following components are the MOST likely causes the issue? (Select three.)
+A. LCD power inverter
+B. AC adapter
+C. Battery
+D. Processor
+E. VGA card
+F. Motherboard
+G. Backlit keyboard
+H. Wireless antenna
+
+
+CompTIA A+ 220-1001 Question A-18
+A customer asks a technician to help set up a specialized computing system for video editing. Which of the following should the technician install on the workstation to BEST meet the customer’s specifications? (Choose two.)
+A. SSD
+B. Dual monitors
+C. Gigabit NIC
+D. Hypervisor
+E. Docking station
+F. NAS
+
+
+CompTIA A+ 220-1001 Question A-19
+A user is unable to access websites and has reported connectivity issues with pop-ups on the screen. A technician removes malware, and then is able to ping the router and access the websites. Which of the following NEXT steps should the technician perform in troubleshooting this issue? (Choose two.)
+A. Documents findings, actions, and outcomes.
+B. Reboot the device to verify the fix.
+C. Reconnect the device to the network.
+D. Verify the settings in IPConfig.
+E. Research the problem based on symptoms.
+F. Run a virus scan.
+
+
+CompTIA A+ 220-1001 Question A-20
+A technician replaced a broken LED screen on a mobile computer. The operating system can be seen perfectly on screen, but the touch screen is non-responsive. Which of the following are the MOST probable root causes for the given failure? (Choose three.)
+A. The hardware replacement used is a non-touch-screen.
+B. The touch screen must be calibrated after a replacement.
+C. The digitizer cable is not seated properly on the motherboard.
+D. The new touch-screen drivers must be installed.
+E. The replacement part is dead-on-arrival.
+F. The LCD panel firmware must be updated.
+G. The grounding screws are not securely attached.
+
+
+CompTIA A+ 220-1001 Question A-21
+A technician is setting up a WiFi-enabled thermostat for a customer, but the customer is concerned about IoT devices getting hacked. Which of the following BEST address the customer’s concerns? (Choose two.)
+A. Use the latest encryption standard on the wireless network and set a strong password.
+B. Enable two-factor authentication for the IoT device’s cloud account, if it is available.
+C. Separate the IoT thermostat by segregating it in a DMZ network.
+D. Disable wireless access on the thermostat to make it unshakable.
+E. Upgrade the customer’s router to the latest version to improve network security.
+F. Upgrade the customer’s wireless network encryption to WPA.
+
+
+CompTIA A+ 220-1001 Question A-22
+A client has three locations within city limits that need to be networked. Vendor network requirements for all three locations are a minimum of 1GB. Which of the following are the types of networks that will MOST likely be used for internal office and office-to-office networking? (Choose two.)
+A. MAN
+B. LAN
+C. WAN
+D. PAN
+E. SAN
+F. WLAN
+
+
+CompTIA A+ 220-1001 Question A-23
+Which of the following channels would commonly be used on an 802.11 wireless network?
+A. 6
+B. 17
+C. 802
+D. 8080
+
+
+CompTIA A+ 220-1001 Question A-24
+Which of the following wireless standards is only capable of 5GHz frequencies?
+A. 802.11a
+B. 802.11ac
+C. 802.11b
+D. 802.11g
+
+
+CompTIA A+ 220-1001 Question A-25
+Ann, a user, reports that after setting up a new WAP in her kitchen she is experiencing intermittent connectivity issues. Which of the following should a technician check FIRST?
+A. Channels
+B. Frequency
+C. Antenna power level
+D. SSID
+
+
+CompTIA A+ 220-1001 Question A-26
+A workstation was just moved to a new work location without a surge protector. It was working the day before, but now the PC will not power on, the fans will not spin, and there are no signs of activity. Which of the following should the technician do FIRST?
+A. Check the power cable connection
+B. Check the voltage of the PSU with a tester
+C. Test for distended capacitors
+D. Check the voltage switch
+
+
+CompTIA A+ 220-1001 Question A-27
+An employee’s mobile device no longer charges, and the employee believes the battery is bad. A technician tests the mobile device and finds it will charge on a wireless charging pad but not when it is connected to a charging cable. Other devices charge without issue when the cable is used. Which of the following should the technician perform FIRST to resolve the issue?
+A. Clean out the charging port on the device
+B. Replace the mobile device’s battery
+C. Issue a new charging cable to the employee
+D. Send the device for service and give the employee a loaner
+
+
+CompTIA A+ 220-1001 Question A-28
+Joe, a user, sets up an IMAP connection on his smartphone to connect to webmail. Joe is able to view email, but he receives an error message when trying to send a message. When viewing the mail client’s configuration, Joe sees a valid SMTP server and port. Which of the following should Joe check NEXT to resolve the issue?
+A. Configure the email account as a POP3 connection
+B. Ensure the SSL/TLS option is being used
+C. Check that the account password is still valid
+D. Make sure the smartphone is not in airplane mode
+
+
+CompTIA A+ 220-1001 Question A-29
+Which of the following is the MOST likely cause for a network PC to have an APIPA address?
+A. DHCP failure
+B. DNS resolution
+C. Duplicate IP address
+D. Cleared ARP cache
+
+
+CompTIA A+ 220-1001 Question A-30
+The ability for new computers to be automatically connected to the network is provided by the:
+A. DHCP server
+B. DNS server
+C. proxy server
+D. TACACS server
+
+
+CompTIA A+ 220-1001 Question A-31
+Which of the following services provides the ability to resolve UNC to appropriate IP addresses?
+A. DNS
+B. DHCP
+C. Proxy
+D. Web server
+
+
+CompTIA A+ 220-1001 Question A-32
+Which of the following devices is used to implement network security policies for an environment?
+A. Firewall
+B. managed switch
+C. Repeater
+D. Gateway
+
+
+CompTIA A+ 220-1001 Question A-33
+A technician receives a cellular from a manager. The technician is instructed to download a service manual directly from the Internet to a laptop. However, there is no WiFi signal or wired Ethernet. Which of the following would be the MOST appropriate connections for the technician to use?
+A. Hotspot
+B. NFC
+C. Bluetooth
+D. VPN
+
+
+CompTIA A+ 220-1001 Question A-34
+The cloud model that represents a company maintaining some data in on-premise storage and some data in cloud-based storage is known as:
+A. hybrid
+B. private
+C. public
+D. community
+
+
+CompTIA A+ 220-1001 Question A-35
+Which of the following is the main purpose of the +5VSB output of a power supply?
+A. It allows peripherals to draw power when the machine is off
+B. It provides power to the audio and sound boards of the machine
+C. It acts as the main voltage supply to the motherboard and processor
+D. It powers all expansion cards and external device hubs
+
+
+CompTIA A+ 220-1001 Question A-36
+A network administrator is attempting to access the firewall while inside the datacenter. Which of the following peripherals must be connected to do so?
+A. KVM
+B. Touchpad
+C. Mouse
+D. Keyboard
+
+
+CompTIA A+ 220-1001 Question A-37
+A technician needs to call a user’s cellular provider to troubleshoot a network speed issue with the user’s mobile device. Which of the following technologies is the technician troubleshooting?
+A. Long-term evolution
+B. Near-field communication
+C. Radio frequency ID
+D. Z-wave
+
+
+CompTIA A+ 220-1001 Question A-38
+Which of the following technologies can be used for wireless payments?
+A. NFC
+B. Bluetooth
+C. IR
+D. LTE
+
+
+CompTIA A+ 220-1001 Question A-39
+The feature that allows users to store files in cloud-based when necessary, but can be removed when space is freed up, is known as:
+A. on-demand
+B. resource pool
+C. synchronization application
+D. shared resources
+
+
+CompTIA A+ 220-1001 Question A-40
+Joe, a user, reports that his new smart wearable device is not synchronizing to his mobile device. Both devices are powered on, but the mobile device fails to read the data from the wearable. Which of the following will MOST likely fix this issue?
+A. Pair the devices
+B. Set the SSID
+C. Update the smart wearable device firmware
+D. Enable NFC
+
+
+CompTIA A+ 220-1001 Question A-41
+A user wants to build a computer with a high-end CPU, plenty of RAM, and a high-end graphics card for online gaming. The user wants to verify that the graphics card is compatible with the motherboard. Which of the following connection types would the user MOST likely utilize to connect the video card to the motherboard?
+A. PCle
+B. ISA
+C. AGP
+D. USB
+
+
+CompTIA A+ 220-1001 Question A-42
+A technician is hired to install network cable in a crawl space running the length of a hallway. To do so without a fire code violation, which of the following types of cable should the technician run?
+A. Plenum
+B. Fiber
+C. Shielded
+D. Coaxial
+
+
+CompTIA A+ 220-1001 Question A-43
+A customer recently moved a high-end graphics card from a known-working computer to a different computer. The computer works without issue when viewing email and web pages or when using certain applications. However, when a game with high-end graphics requirements is opened, the program will run for a few minutes before the computer shuts down. Which of the following is MOST likely causing the problem?
+A. Power supply wattage
+B. Video RAM
+C. CPU frequency
+D. Monitor resolution
+
+
+CompTIA A+ 220-1001 Question A-44
+About one week ago, access to files on a network server became significantly slower. Today, network files are completely unavailable. A technician is able to make a remote connection to the server. Which of the following should the technician check NEXT?
+A. RAID 5 array
+B. NIC configuration
+C. Available storage space
+D. RAM utilization
+
+
+CompTIA A+ 220-1001 Question A-45
+In a virtual environment, which of the following allows all the VMs to have RAM allocated for use?
+A. Resource pooling
+B. Measured service
+C. Virtual application streaming
+D. Synchronization
+
+
+CompTIA A+ 220-1001 Question A-46
+A systems administrator receives a notification from the RAID controller that the RAID 5 array is degraded. Upon logging into the server, the administrator sees that on local disk 0, physical disk 2 has failed. Which of the following is the BEST course of action to take to resolve the problem?
+A. Schedule system downtime and replace physical disk 2. Wait until the array is rebuilt and confirm in the RAID controller that the system is no longer degraded.
+B. Immediately replace physical disk 2. Wait until the arrays is rebuilt and confirm in the RAID controller that the system is no longer degraded.
+C. Delete logical disk 0 and manually configure a new RAID array only using the known-good working drives. Wait until the array is rebuilt and confirm in the RAID controller that the system is no longer degraded.
+D. In the controller, convert the RAID 5 array to RAID 0 array to avoid system downtime. Wait until the array is rebuilt and confirm in the RAID controller that the system is no longer degraded.
+
+
+CompTIA A+ 220-1001 Question A-47
+A technician is setting up a printer for a small office that does not have an RJ-45 jack. The users’ computers are all in the same workgroup and are connected physically to the same network switch. The technician needs to make sure all users can print to the new printer through the switch. Which of the following should the technician configure?
+A. Shared printer
+B. Print server
+C. Bluetooth printing
+D. Cloud printing
+
+
+CompTIA A+ 220-1001 Question A-48
+Which of the following devices performs forwarding decisions based on MAC addresses?
+A. Switch
+B. Router
+C. Hub
+D. Repeater
+
+
+CompTIA A+ 220-1001 Question A-49
+Which of the following devices can utilize VLANs to secure networks?
+A. Switch
+B. Hub
+C. Repeater
+D. Bridge
+
+
+CompTIA A+ 220-1001 Question A-50
+A user is connected to a docking station with an optical drive and is trying to back up personal files to removable media, but is encountering write errors. Which of the following is MOST likely cause of the errors?
+A. The disk has already been finalized
+B. The files are encrypted
+C. There is a corrupt file on the hard drive
+D. The files are not compatible with the type of disk used
+
+
+CompTIA A+ 220-1001 Question A-51
+The graphics has an issue with printing certain files. The printer does not print the complete image on larger files. A technician verifies the network speed of the printer is set to 1GB and that regular text files print without issue. Which of the following is the MOST likely cause of this problem?
+A. The printer needs more RAM
+B. The print server is timing out
+C. The users are not printing in post-script mode
+D. The printer network connection is set to half duplex
+
+
+CompTIA A+ 220-1001 Question A-52
+A technician is troubleshooting network connectivity issues after a new wireless router was installed in an office. Users who connect to the new router are unable to access LAN resources. Which of the following is the MOST likely cause of the issue?
+A. There are conflicting DHCP servers on the network
+B. There are conflicting ARP records
+C. There are conflicting gateways on the network
+D. There are conflicting IP protocols
+
+
+CompTIA A+ 220-1001 Question A-53
+A user’s smartphone has been slow recently. A technician sees the phone was purchased two months ago, and it is top of the line. About a month ago, a new OS update was installed. To address the issue, the technician runs a hardware diagnostic on the device, and it reports no problems. Which of the following is MOST likely the cause of the performance issue on the device?
+A. Too many applications are running updates
+B. The device is currently running in airplane mode
+C. The internal memory is failing on the device
+D. The OS update is too resource intensive for the device
+
+
+CompTIA A+ 220-1001 Question A-54
+A company offers several out-of-the-box computer configurations to its clients. A client requests several new computers for its newest location, which will be used by guests to check in upon arrival and fill out contact information. Which of the following configurations would BEST fit this customer’s needs?
+A. Touch-screen kiosk
+B. Thick client
+C. CAD workstation
+D. Virtualized host computer
+
+
+CompTIA A+ 220-1001 Question A-55
+Which of the following devices can be used to connect multiple devices within broadcasting to every network port?
+A. Unmanaged switch
+B. Hub
+C. Firewall
+D. Cable modern
+
+
+CompTIA A+ 220-1001 Question A-56
+A shipping department is having problems with its thermal label printer. Two columns on the left are not appearing on all labels. Which of the following should a technician do FIRST?
+A. Verify the ribbon is correctly aligned to the label
+B. Run a label calibration
+C. Remove stuck labels from the print path
+D. Replace the print head
+
+
+CompTIA A+ 220-1001 Question A-57
+A laptop is connected to a conference room projector in extended display mode. The desktop icons appear normal on the laptop, but are disproportionate and illegible on the projector screen. Which of the following should the technician check?
+A. Video resolution
+B. HDMI connection
+C. Keystone
+D. Focus
+
+
+CompTIA A+ 220-1001 Question A-58
+An engineer is working at a remote site that does not have Internet access. Which of the following features should the engineer use to connect a laptop to the Internet if hotspot functionality is unavailable?
+A. Tethering
+B. Near field communication
+C. Wireless LAN
+D. Virtual private network
+
+
+CompTIA A+ 220-1001 Question A-59
+A technician is dispatched to troubleshoot a slow performance issue on a PC. Upon arrival, the technician immediately opens Task Manager and sees that CPU and RAM performance are within normal ranges. The technician then checks and verifies the speed and duplex settings and performance on the network card. The technician then temporarily disables the antivirus to see if performance is affected, and it is not. After re-enabling the antivirus, which of the following is the NEXT best stop for the technician to take?
+A. Check to see if insufficient hard drive space is causing the issue
+B. Update the operating system, drivers, and firmware on the PC
+C. Log into the PC with another user profile and test performance
+D. Shut down the PC, unplug the power for 30 seconds, and then boot the PC
+
+
+CompTIA A+ 220-1001 Question A-60
+A projector’s image begins to flicker during a presentation. The laptop display does not produce this issue. When a technician changes the resolution on the laptop, the issue persists. Which of the following is the NEXT step the technician should take?
+A. Check the connectivity of the VGA cable.
+B. Check the connectivity of the power cable.
+C. Change the aspect ratio on the laptop.
+D. Change the settings of the projector.
+
+
+CompTIA A+ 220-1001 Question A-61
+A technician is setting up a Windows mobile device for a user who had trouble reading text on a previous device, especially at night. Which of the following adjustments would be MOST appropriate?
+A. Use the magnifier.
+B. Increase the resolution.
+C. Use haptic feedback.
+D. Utilize text-to-speech.
+
+
+CompTIA A+ 220-1001 Question A-62
+A customer wants to upgrade a PC’s internal storage to have more room to store backups, photos, and videos. The new storage should be large enough to avoid expanding again next year. Which of the following BEST meets these needs?
+A. 3TB HDD
+B. 50GB NAS
+C. 500TB SAN
+D. 512GB SSD
+
+
+CompTIA A+ 220-1001 Question A-63
+A technician has noticed that when at company headquarters the laptop connection to the Internet is more responsive than when using the company-provided phone as a hotspot. The technician updated the drivers on the WiFi NIC without resolution and then verified the configuration on the WiFi was correct. Which of the following configurations could cause the decreased performance?
+A. The connection if throttled.
+B. There is a low RFID signal.
+C. SSID is not found.
+D. It is out of range.
+
+
+CompTIA A+ 220-1001 Question A-64
+A network administrator must install a device that will proactively stop outside attacks from reaching the LAN. Which of the following devices would BEST meet the organization’s needs?
+A. IPS
+B. IDS.
+C. Proxy server
+D. Authentication server.
+
+
+CompTIA A+ 220-1001 Question A-65
+A business owner wants to provide security to laptop users with the ability to charge their devices, access corporate LAN resources, and allow for a variety of their removable hardware. Which of the following devices would BEST meet the owner’s needs?
+A. Docking station
+B. Port replicator
+C. Thunderbolt
+D. USB hub
+
+
+CompTIA A+ 220-1001 Question A-66
+A user brings in a smartphone for repair. The device is unable to send/receive calls or connect to WiFi. All applications on the device are working unless they require connectivity. Which of the following is MOST likely causing the problem?
+A. Airplane mode
+B. Tethering
+C. Disabled hotspot
+D. VPN
+
+
+CompTIA A+ 220-1001 Question A-67
+A technician is replacing a broken screen on a new company laptop but does not have repair information from the vendor. Which of the following is the BEST way to proceed?
+A. Document and label the cable and screw locations.
+B. Replace the screen with a non-OEM.
+C. Update the firmware on the device before repairing it.
+D. Wait for the vendor to provide more information.
+
+
+CompTIA A+ 220-1001 Question A-68
+Ann, a user, needs to attend several day-long conferences and wants to ensure her mobile device will have enough power for these events. She is concerned about wall outlet availability at the conferences and needs to continuously use her device for important updates. Which of the following should a technician recommend to BEST accommodate Ann’s needs?
+A. Wireless charging pad
+B. Built-in battery case
+C. Extra charging cords
+D. Airplane mode
+
+
+CompTIA A+ 220-1001 Question A-69
+A technician is setting up a new wireless network at a branch office that previously had only wired connectivity with statically assigned IP addresses. After setting up the network, the technician configures a server to provide IP addresses to wireless clients. During testing, the technician is unable to access the Internet or named network resources. The technician receives a valid IP address from the DHCP server and can ping the default gateway. Which of the following should be technician check NEXT to resolve this issue?
+A. Ensure the options are configured to provide a DNS server.
+B. Verify the Windows Firewall is turned off.
+C. Configure the wireless network’s SSID to be hidden.
+D. Enable file and printer sharing in the OS.
+
+
+CompTIA A+ 220-1001 Question A-70
+Several company users are frequently forgetting passwords for their mobile devices and applications. Which of the following should the systems administrator do to reduce the number of help desk tickets submitted?
+A. Implement single sign-on.
+B. Enable multifactor authentication.
+C. Configure biometric authentication.
+D. Remove complex password requirements.
+
+
+CompTIA A+ 220-1001 Question A-71
+A user reports that a laptop is not connecting to the corporate wireless network. A technician confirms a with a smartphone that the corporate wireless network is available and can be accessed. the technician observes that the Ethernet connection to the corporate network is working. The technician disconnects the Ethernet cable. Which of the following should the technician do NEXT to troubleshoot this problem?
+A. Confirm that the laptop wireless card is turned on.
+B. Confirm that the laptop is in range for the access point.
+C. Confirm that the correct wireless network is selected.
+D. Confirm the user’s network login ID and password.
+
+
+CompTIA A+ 220-1001 Question A-72
+A company has very strict rules regarding proprietary information leaving the premises. All computers host proprietary information. A technician is called to repair a computer on-site at the company’s corporate office. The technician identifies the troubleshooting steps to create a plan of action. The technician determines the computer needs to be taken off-site for repair. Which of the following should the technician do NEXT?
+A. Check corporate policies for guidance.
+B. Get authorization from the manager.
+C. Delete proprietary data before leaving the building.
+D. Remove the HDD and send the device for repair.
+
+
+CompTIA A+ 220-1001 Question A-73
+A technician is determining the specifications for a desktop computer that will be used at trade shows all over the world. The computer will have the maximum amount of RAM. The CPU, GPU, and storage will be typical of a business workstation. Which of the following system parameters is the MOST important for the technician to consider when choosing a power supply?
+A. input voltage
+B. Efficiency rating
+C. 12V rail amperage
+D. Number of SATA connectors
+
+
+CompTIA A+ 220-1001 Question A-74
+During an inspection, it was found that data racks were not properly grounded. To pass the inspection and address a growing concern to protect data cabling and equipment, a technician must make sure all racks are properly grounded. Which of the following tools should the technician use to verify this has been completed?
+A. Multimeter
+B. Cable tester
+C. Tone generator
+D. Voltmeter
+
+
+CompTIA A+ 220-1001 Question A-75
+An associate is seeking advice on which device to purchase for a friend who is a business owner. The friend needs the ability to chat activity while keeping in contact with the home office. Which of the following would be the BEST recommendation?
+A. Smart watch
+B. Fitness monitor
+C. Global positioning sensor
+D. Portable hotspot
+
+
+CompTIA A+ 220-1001 Question A-76
+Joe, a user, has purchased a new mobile device that uses a different OS than his previous one. Joe wants to copy his contacts and appointments from his corporate account without entering them manually. Which of the following would be the BEST way for a technician to assist Joe?
+A. Log into the same email provider on the new device, and restore the contacts and dates.
+B. Create a Bluetooth connection between Joe’s devices, and copy his contacts and calendar.
+C. Back up the old mobile device to a PC, and import the contacts and schedule from the PC.
+D. Use NFC to transfer all compatible data from one device to the other.
+
+
+CompTIA A+ 220-1001 Question A-77
+A user reports that printing on heavy cardstock paper results in the image smearing if touched. When printing on plain paper, the problem does not occur. Which of the following would be the NEXT troubleshooting step to perform?
+A. Increase the fuser temperature.
+B. Change the paper feed rate.
+C. Clean the transfer roller.
+D. Replace the toner cartridge.
+
+
+CompTIA A+ 220-1001 Question A-78
+An ISP has notified a SOHO user of a usage increase on the user’s network. The user is concerned the WiFi network is being utilized by unauthorized users. Which of the following would minimize the unauthorized use of the WiFi network?
+A. Implement MAC filtering
+B. Enable NAT
+C. Create a network DMZ
+D. Upgrade the encryption standards
+
+
+CompTIA A+ 220-1001 Question A-79
+A technician wants to block remote logins to a server. Which of the following ports should be blocked?
+A. 21
+B. 23
+C. 80
+D. 443
+
+
+CompTIA A+ 220-1001 Question A-80
+A user connects a laptop to a docking station but is unable to see an image on the external monitor. The user tests the docking station USB ports, and they are working fine. Which of the following should be done NEXT?
+A. Check for firmware updates
+B. Configure extended display mode
+C. Replace the external monitor
+D. Adjust the laptop’s BIOS settings
+
+
+CompTIA A+ 220-1001 Question A-81
+After upgrading a smartphone’s OS, Joe, a user, reports the smartphone no longer connects to his automobile automatically when near it, Joe, restarts the smartphone, but the problem persists. Which of the following should a technician do NEXT to restore the previous functionality?
+A. Connect the smartphone to the automobile via USB
+B. Reenable the smartphone’s Bluetooth radio
+C. Perform a rollback of the smartphone’s OS
+D. Pair the smartphone with the automobile
+
+
+CompTIA A+ 220-1001 Question A-82
+A technician is buying a PC that will host three VMs running at the same time with the current configuration. The technician believes there might be a need to run several additional VMs in the near future. Which of the following resources would be the MOST important to upgrade to allow for the additional VMs?
+A. CPU
+B. SSD
+C. NIC
+D. RAM
+
+
+CompTIA A+ 220-1001 Question A-83
+Which of the following resources in the MOST critical when using cloud file-storage synchronization applications?
+A. Disk speed
+B. I/O bandwidth
+C. RAM utilization
+D. CPU utilization
+
+
+CompTIA A+ 220-1001 Question A-84
+Which of the following Internet connection types often terminates at a switching center and then requires the use of a different media for the last mile to the customer?
+A. ISDN
+B. DSL
+C. Fiber
+D. Cable
+
+
+CompTIA A+ 220-1001 Question A-85
+Which of the following connects a PC to its default gateway?
+A. NIC
+B. Switch
+C. Router
+D. Cable modem
+
+
+CompTIA A+ 220-1001 Question A-86
+Ann, an accountant, reports that after turning on her new laptop, she received a message stating her IP address is already in use on the system. She tried going back to her old desktop, which she now only uses for email, but received the same message. The technician checks the account and sees a comment that Ann requires a special network setup to connect to the banking software. Which of the following should the technician do to resolve the issue?
+A. Remove the static IP configuration from the desktop.
+B. Set the laptop configuration to DHCP to prevent conflicts.
+C. Replace the network card in the laptop, as it may be defective.
+D. Bridge the LAN connection between the laptop and the desktop.
+
+
+CompTIA A+ 220-1001 Question A-87
+Which of the following connector types is used to terminate household telephone cabling?
+A. RG-6
+B. RJ-11
+C. RJ-45
+D. RG-59
+
+
+CompTIA A+ 220-1001 Question A-88
+Which of the following peripheral types is MOST likely to be used to input actions into a PC?
+A. Webcam
+B. Mouse
+C. Monitor
+D. Optical drive
+
+
+CompTIA A+ 220-1001 Question A-89
+Joe, a user, recently purchased a new multifunction printer and attempted to install it himself. He informed a technician that the printer is on his list of printers, but he is unable to print. The technician sees that the printer is listed as a generic printer under Devices and Printers. Which of the following should the technician do NEXT?
+A. Reboot the computer into safe mode and try to print a test page
+B. Download the correct drivers from the manufacturer’s website and install them
+C. Unplug the USB cable from the printer and try another USB slot on the PC
+D. Set the printer as the default within the device properties
+
+
+CompTIA A+ 220-1001 Question A-90
+A user is having a problem with printing a specific document type. The network printer OCP shows that the printer is online with no errors. Other users are not having the same issue. The user sends the document to another printer and the document prints. Which of the following should a technician do FIRST in troubleshooting the problem?
+A. Stop and restart the PC print spooler service.
+B. Verify the user is sending the document to the correct printer queue.
+C. Have each user send the same document to the correct printer queue.
+D. Stop and restart the print server queues, and then have the user resend the document.
+
+
+CompTIA A+ 220-1001 Question A-91
+A user is no longer able to browse the Internet after returning from vacation. The user is able to log in and navigate to the local intranet, but not to any outside sites. A technician pings a well-known website by name but gets no reply. The technician then pings its IP address and gets a reply. Which of the following commands will MOST likely resolve the issue?
+A. ipconfig /all
+B. ipconfig /flushdns
+C. ipconfig /release
+D. ipconfig /setclassid
+
+
+CompTIA A+ 220-1001 Question A-92
+A customer’s laptop display has suddenly become very dim. The image of the display can only be seen with a bright, external light, as adjusting the brightness/ contracts controls does not cause much change. Which of the following components MOST likely needs to be replaced?
+A. LCD panel
+B. Inverter
+C. Video card
+D. Digitizer
+
+
+CompTIA A+ 220-1001 Question A-93
+A user logs on a PC and receives a message stating there is a duplicate IP address on the network. After a system restart, the user notices the same error. Which of the following is the MOST probable cause of the error?
+A. The user is still logged into another device.
+B. The user has set a static IP address.
+C. The user has moved to a different office.
+D. The user has wireless and wired connections.
+
+
+CompTIA A+ 220-1001 Question A-94
+A technician has been informed that multiple users are receiving duplicate IP address warnings on their workstations, and they are unable to browse the Internet. Which of the following server types should the technician log in to in order to resolve the problem?
+A. DNS server
+B. DHCP server.
+C. Proxy server
+D. RADIUS server
+
+
+CompTIA A+ 220-1001 Question A-95
+A technician is troubleshooting a Windows CAD workstation that is running slow. The computer uses RAID 10 and has dual GPU cards. The user states that the same application runs faster on an identical workstation. Which of the following should the technician perform FIRST to troubleshoot the problem?
+A. Replace the write cache battery.
+B. Check the event log any cache issues.
+C. Clear the RAID configuration file and restart the PC.
+D. Replace the RAID controller write cache module.
+
+
+CompTIA A+ 220-1001 Question A-96
+An end user has signed up to use a web-based calendar application. Which of the following solutions has the user purchased?
+A. DaaS
+B. SaaS
+C. PaaS
+D. laaS
+
+
+CompTIA A+ 220-1001 Question A-97
+An analyst asks a technician to recommend a solution for a customer in the software development industry, where the customer can test a variety of OS’s running the various applications that the customer produces. The customer wants to minimize the investment in hardware. Which of the following solutions should the technician recommended to BEST meet the customer’s requirement?
+A. Purchase a number of low-cost devices, installing the required Oss and applications on each one. Use separate machines for each testing environment.
+B. Purchase a high-end system meeting the hardware requirements for all of the individual Oss and applications. Configure a VM for each testing environment.
+C. Purchase one computer and create images for each computer configuration and OS. Re-image the machine for each testing environment.
+D. Purchase a number of computers, installing a VM on each one. Configure each VM with an OS for the testing environment.
+
+
+CompTIA A+ 220-1001 Question A-98
+A server needs a RAM upgrade, and a technician has been tasked with retrieving the RAM from storage and then installing it. Whish of the following is the BEST RAM type for the technician to retrieve?
+A. SoDIMM
+B. DDR4
+C. Single channel
+D. ECC
+
+
+CompTIA A+ 220-1001 Question A-99
+Which of the following Ethernet cables would BEST support an application that requires a 600 Mbps throughput at the lowest price point?
+A. Cat 3
+B. Cat 5
+C. Cat 5e
+D. Cat 6
+
+
+CompTIA A+ 220-1001 Question A-100
+Which of the following terminates a coaxial cable?
+A. DB9
+B. RJ45
+C. RG-59
+D. RS-232
+
+
+CompTIA A+ 220-1001 Question B-1
+An end user reports a printer error that states â€œReplace filamentâ€. With which of the following types of printer is the end user MOST likely having problems?
+A. ink jet
+B. Laser
+C. 3-D
+D. Thermal
+
+
+CompTIA A+ 220-1001 Question B-2
+Company management wants to be able to give users the ability to work remotely during periods of bad weather. Which of the following should be enabled to allow the workforce to do this?
+A. NAT
+B. VLAN
+C. VPN
+D. HIPS
+
+
+CompTIA A+ 220-1001 Question B-3
+Which of the following cloud computing concepts allows scalable services to be provided to the client?
+A. On-demand
+B. Metered
+C. Rapid elasticity
+D. Resource pooling
+
+
+CompTIA A+ 220-1001 Question B-4
+An end user wants to have a second monitor installed on a laptop. Which of the following would allow a technician to configure the laptop to show both screens once the cable is connected?
+A. Plug an external monitor into the USB port.
+B. Use the Fn and function key combination
+C. Adjust the monitor display settings.
+D. Enable DisplayPort.
+
+
+CompTIA A+ 220-1001 Question B-5
+A technician is troubleshooting what appears to be a RAM issue on a PC. Which of the following symptoms would indicate if this is a RAM issue?
+A. POST code beeps
+B. Distended capacitors
+C. Continuous reboots
+D. Wrong BIOS time
+
+
+CompTIA A+ 220-1001 Question B-6
+A user has reported application connectivity problems to the network administrator. The network administrator knows there have been firewall configuration changes recently by a security vendor and believes the issue could be related to a port being closed on the firewall. Which of the following should the network administrator do NEXT?
+A. See if the same application fails on another workstation
+B. Go into the firewall and open the port
+C. Verify system functionality on the user’s workstation
+D. Document the issue for future reference
+
+
+CompTIA A+ 220-1001 Question B-7
+An office has a network that has all computers connected to two switches. The switches are connected with a fiber cable. The computers and switches are all located in the same building. Which of the following network types does this describe?
+A. WAN
+B. PAN
+C. LAN
+D. MAN
+
+
+CompTIA A+ 220-1001 Question B-8
+A customer accidentally drops a laptop while it is charging. The next day, the customer notices the laptop will not turn on and calls a technician to investigate. The technician confirms the laptop will not turn on and calls a technician to investigate. The technician confirms the laptop will not turn on even though it is connected to the power adapter. Which of the following components is the MOST likely cause of this behavior?
+A. Power adapter
+B. Battery
+C. DC jack
+D. Hard drive
+
+
+CompTIA A+ 220-1001 Question B-9
+A printer stops working in the billing department and cannot be repaired. A new printer has been ordered and a technician is tasked with allowing other users to print to the billing manager’s printer until the new printer arrives. The manager’s printer is currently used via USB connection, and there are no network jacks available for use. Which of the following is the BEST way for the technician to allow access to the printer?
+A. Create a share on the manager’s computer and give the users rights to the share.
+B. Install the printer on the users’ desktops and point it to the IP address of the manager’s computer.
+C. Purchase a wireless printer so the users can access the printer via network.
+D. Provide flash drives to the users so they can transfer data to the manager’s computer for printing.
+
+
+CompTIA A+ 220-1001 Question B-10
+A user wants to print a large job on both the front and back sides of the paper. Which of the following settings should the technician advise the user to change in the printer settings?
+A. Collate
+B. Orientation
+C. Duplex
+D. Transparency
+
+
+CompTIA A+ 220-1001 Question B-11
+Whenever a user’s machine is turned on, a black screen appears prompting the user for an administrative password. The technician has no such password on file for this machine. Which of the following steps should the technician take to resolve this issue?
+A. Press and hold the CPU power button for five seconds, and then power back on.
+B. Disconnect and reconnect the internal hard drive.
+C. Remove the CMOS battery and reinsert it after ten seconds.
+D. Remove the motherboard and place it back into the machine after ten minutes.
+
+
+CompTIA A+ 220-1001 Question B-12
+A technician is replacing the LCD panel in a laptop. Which of the following components is MOST likely to be damaged accidentally during the repair?
+A. Bezel
+B. Hinge
+C. Motherboard
+D. Digitizer
+
+
+CompTIA A+ 220-1001 Question B-13
+Which of the following is designed to function BEST in harsh lighting conditions?
+A. Large tablet
+B. E-reader
+C. Smart watch
+D. Virtual reality headset
+
+
+CompTIA A+ 220-1001 Question B-14
+Which of the following charging and data ports has a non-directional connector?
+A. Micro-USB
+B. Mini-USB
+C. USB-A
+D. USB-C
+
+
+CompTIA A+ 220-1001 Question B-15
+A technician is configuring a new web server and must have over 10TB of fault-tolerant storage, while minimizing the number of failure points. The applications on the server also require the highest performance available. Which of the following configurations would the technician MOST likely select?
+A. RAID 0 with 1500rpm 15TB drives
+B. RAID 1 with 1000rpm 8TB drives
+C. RAID 5 with 7200rpm 5TB drives
+D. RAID 10 with 5400rpm 6TB drives
+
+
+CompTIA A+ 220-1001 Question B-16
+Which of the following cable types should be used to connect a cable modem to a SOHO router?
+A. Thunderbolt
+B. Coaxial
+C. USB
+D. Ethernet
+
+
+CompTIA A+ 220-1001 Question B-17
+A network administrator is troubleshooting a notebook that is not loading the local Windows 10 operating system. All the computers inside the company are installed using UEFI mode selected. The message on the screen shows a failed attempt to connect to a PXE server. When requested, the end user reported trying to improve the computer speed by changing some BIOS configurations randomly. Which of the following should the network administrator check FIRST inside BIOS?
+A. C-states should be configured to 2
+B. Secure Boot should be enabled
+C. Wake-on-LAN should be unchecked
+D. The PXE server address should be set
+
+
+CompTIA A+ 220-1001 Question B-18
+A technician is ordering a new motherboard and processors for a company email server. When reviewing the vendor licensing agreement, the technician sees that there is a flat per-socket licensing fee. Which of the following motherboard/processor combinations should the technician order get the BEST performance while minimizing licensing fees?
+A. A dual-processor motherboard with six hyper threaded cores each.
+B. A single-processor motherboard with hyper threaded eight cores.
+C. A dual-processor motherboard with eight overclocked cores each.
+D. A single-processor motherboard with ten overclocked cores.
+
+
+CompTIA A+ 220-1001 Question B-19
+A technician is talking to end users about the specifications for an upgraded application server. The users of the application report that there cannot be any unscheduled downtime or data loss. Additionally, they would like the performance of the application to improve over the previous server in any way possible. The previous server running RAID 5. Which of the following RAID solutions should be implemented in this scenario?
+A. RAID 0
+B. RAID 2
+C. RAID 6
+D. RAID 10
+
+
+CompTIA A+ 220-1001 Question B-20
+Multiple users report that the network printer, which is connected through the print server, is not printing. Which of the following should a technician do FIRST to remedy this situation?
+A. Replace the USB cable.
+B. Reinstall the drivers on users’ PCs.
+C. have users restart their PCs.
+D. Clear the print queue.
+
+
+CompTIA A+ 220-1001 Question B-21
+The touch-screen feature on a Windows device has stopped working. Which of the following should the technician check FIRST?
+A. Device Manager
+B. Performance Monitor
+C. System configuration
+D. Digitizer settings
+
+
+CompTIA A+ 220-1001 Question B-22
+Several computers are having network connectivity issues. Two of the computers are wired and are not having any issues. The technician verifies that none of the computers having issues have been assigned a static IP. Which of the following should the technician check NEXT?
+A. Check the closest AP for the area.
+B. Check each wireless adapter switch
+C. Check the group’s network switch.
+D. Check the DHCP server.
+
+
+CompTIA A+ 220-1001 Question B-23
+A technician upgraded the memory on a server from two 8GB sticks to eight 32GB. The server memory is now at full capacity per the user guide. When the technician powers on the system, only 128 GB of memory is recognized by the OS and the BIOS. The technician decides to upgrade to the latest version of the firmware on the system, which does not help. Next, the technician installs the memory in sets of 64GB at a time. Each individual set of 64GB is fully recognized by the server. Which of the following will not allow the server to recognize all of the memory installed at the same time?
+A. The power supply is not supplying enough power for the memory.
+B. The memory has too many ECC errors and is shutting down
+C. The server is overheating when all of the memory is installed.
+D. The server needs DDR4 memory, and DDR3 is installed.
+
+
+CompTIA A+ 220-1001 Question B-24
+A user purchases a wireless printer and sets it up in an office. The user installs all necessary software for the printer on the computer and connects the printer to the guest wireless network. However, when the user attempts to print to the printer, nothing happens. Which of the following will resolve the issue?
+A. Set up the user’s computer to act as a print server.
+B. Configure the printer to use the Internet printing protocol.
+C. Ensure the user’s computer is set to DHCP.
+D. Connect the printer to the company wireless network.
+
+
