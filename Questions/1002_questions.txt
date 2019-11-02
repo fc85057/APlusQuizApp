@@ -1,0 +1,680 @@
+CompTIA A+ 220-1002 Question A-1
+A user\'s computer is displaying a black screen. The technician restarts the computer, but the OS still does not load. The technician discovers the OS was patched the previous evening.
+Which of the following should the technician attempt NEXT?
+A. Reboot into safe mode and roll back the updates
+B. Repair the Windows Registry
+C. Configure boot options in the BIOS
+D. Disable Windows services and applications
+
+
+CompTIA A+ 220-1002 Question A-2
+A computer becomes infected with malware, which manages to steal all credentials stored on the PC. The malware then uses elevated credentials to infect all other PCs at the site. Management asks the IT staff to take action to prevent this from reoccurring. Which of the following would BEST accomplish this goal?
+A. Use an antivirus product capable of performing heuristic analysis
+B. Use a host-based intrusion detection system on each computer
+C. Disallow the password caching of accounts in the administrators group
+D. Install a UTM in between PC endpoints to monitor for suspicious traffic
+E. Log all failed login attempts to the PCs and report them to a central server
+
+
+CompTIA A+ 220-1002 Question A-3
+A company brings in contractors several times a year to perform inventory, and the contractors use company-supplied laptops. The company\'s security policy states that once the inventory is completed, the contractors should not be able to log in to the laptops until the next inventory.
+Which of the following BEST enforces this policy?
+A. Delete the user accounts
+B. Disable the user accounts
+C. Restrict the user accounts
+D. Reset the user accounts
+
+
+CompTIA A+ 220-1002 Question A-4
+A department in an organization set up a proxy server to manage its Internet stage. A technician is configuring the Windows workstations to use the new proxy server. Which of the following Control Panel utilities should the technician use to configure the setting?
+A. Internet Options -&gt; Advanced
+B. Internet Options -&gt; Connections
+C. Internet Options -&gt; Security
+D. Internet Options -&gt; Content
+E. Internet Options -&gt; Privacy
+
+
+CompTIA A+ 220-1002 Question A-5
+A technician is working at a help-desk form and receives a call from a user who has experienced repeated BSODs. The technician is scheduled to take a break just after the call comes in. Which of the following is the BEST choice for the technician to make?
+A. Politely ask the user to call back
+B. Ask another technician to take the call
+C. Troubleshoot the issue for the user
+D. Input the issue as a ticket and escalate to Tier 2
+E. Put the user on hold and troubleshoot after the scheduled break
+
+
+CompTIA A+ 220-1002 Question A-6
+A user\'s smartphone is making the camera shutter noise even when the user is not taking pictures. When the user opens the photo album, there are no new pictures. Which of the following steps should be taken FIRST to determine the cause of the issue?
+A. Uninstall the camera application
+B. Check the application permissions
+C. Reset the phone to factory settings
+D. Update all of the applications on the phone
+E. Run any pending OS updates
+
+
+CompTIA A+ 220-1002 Question A-7
+A SOHO technician recently moved some data from one server to another to increase storage capacity. Several users are now reporting they cannot access certain shares on the network. When the users attempt to access the shares, they get the following error: Access Denied. The technician confirms the users are all in the proper security groups and have the proper access, but they are still unable to access the shares. Which of the following are the MOST likely reasons for these issues? (Select two.)
+A. Administrative share permissions
+B. Mapped drives
+C. Group Policy hours restriction
+D. Denied write/delete permissions
+E. Disabled proxy settings
+
+
+CompTIA A+ 220-1002 Question A-8
+A small business has an open wireless network so vendors can connect to the network without logging in. The business owners are concerned that a nearby company is connecting and using the wireless connection without permission. If the small business requires that the network remain open, which of the following configuration settings should be changed to address these concerns?
+A. Default SSID
+B. MAC filtering
+C. Power levels
+D. Content filtering
+E. Firewall
+
+
+CompTIA A+ 220-1002 Question A-9
+Joe, a systems administrator, is setting up a risk management plan for the IT department. Part of the plan is to take daily backups of all servers. The server backups will be saved locally to NAS. Which of the following can Joe do to ensure the backups will work if needed?
+A. Frequently restore the servers from backup files and test them
+B. Configure the backups to restore to virtual machines for quick recovery
+C. Set up scripts that automatically rerun failed backup jobs
+D. Set up alerts to let administrators know when backups fail
+E. Store copies of the backups off-side in a secure datacenter
+
+
+CompTIA A+ 220-1002 Question A-10
+A user believes there is a virus on a laptop. The user installs additional real-time protection antivirus software but is now experiencing extremely slow performance on the laptop. Which of the following should a technician do to resolve the issue and avoid recurrence?
+A. Activate real-time protection on both antivirus software programs
+B. Uninstall one antivirus software program and install a different one
+C. Run OS updates
+D. Enable the quarantine feature on both antivirus software programs
+E. Remove the user-installed antivirus software
+
+
+CompTIA A+ 220-1002 Question A-11
+A network administrator notifies a technician that the company is experiencing a DDoS attack. Several internal Windows PCs are the source of the traffic. The network administrator gives the technician the Windows computer names and states they be scanned and cleaned immediately. With which of the following types of infections are the PCs MOST likely infected? (Select two.)
+A. Spyware
+B. Zombies
+C. Virus
+D. Ransomware
+E. Worm
+F. Botnet
+
+
+CompTIA A+ 220-1002 Question A-12
+Emily, a user, has purchased a new Android phone and is attempting to access a public hotspot. When she gets a message indicating the page cannot be displayed. She notices there is a “?” in the radio icon in the toolbar. She has verified Bluetooth is active, airplane mode is off, and tethering is turned on. She uses the cell phone to call a technician for assistance. Which of the following is the MOST likely issue Emily is experiencing?
+A. There is unauthenticated wireless connectivity
+B. She has exceeded the data allowance
+C. The phone is only 3G capable
+D. It is an unrooted phone
+E. The SIM card was not activated
+F. A data plan was not purchased
+
+
+CompTIA A+ 220-1002 Question A-13
+A technician is working on a Windows 10 PC that is running slowly. Which of the following commands should the technician use to correct this issue? (Select two.)
+A. dir
+B. chdsk
+C. dism
+D. ipconfig
+E. format
+F. diskpart
+
+
+CompTIA A+ 220-1002 Question A-14
+A small business has an open WiFi network for employees but does not want customers to connect to the access point. A technician has been dispatched to address the business\'s concerns. Which of the following configuration settings should the technician change to satisfy the requirements of the business? (Select two.)
+A. Default SSID
+B. MAC filtering
+C. NAT
+D. QoS
+E. Signal strength
+F. Encryption
+
+
+CompTIA A+ 220-1002 Question A-15
+A wireless access point is going to be configured in a small office located in a crowded building. Which of the following should the installation technician perform to increase the security of the wireless network? (Select two.)
+A. Reduce the transmit power
+B. Reduce the channel availably
+C. Disable the DHCP server
+D. Enable QoS management
+E. Disable the SSID broadcast
+F. Implement WPA encryption
+
+
+CompTIA A+ 220-1002 Question A-16
+A security team is auditing a company\'s network logs and notices that a USB drive was previously inserted into several of the servers. Many login attempts were then successfully performed using common login information. Which of the following actions should be taken to close the vulnerability? (Select two.)
+A. Disable guest account
+B. Remove admin permissions
+C. Modify AutoRun settings
+D. Change default credentials
+E. Run OS security updates
+F. Install a software firewall
+
+
+CompTIA A+ 220-1002 Question A-17
+A technician is setting up a SOHO wireless network for a healthcare office that does not have a server. The user requires the highest level of wireless security and various levels of desktop authentication to access cloud resources. Which of the following protocols and authentication methods should the technician implement? (Select two.)
+A. WPA
+B. WPA2
+C. WEP
+D. TKIP
+E. RADIUS
+F. Multifactor
+G. TACACS
+H. SSO
+
+
+CompTIA A+ 220-1002 Question A-18
+Which of the following devices are MOST likely to have a grounding wire attached to them based on the manufacturer\'s design? (Select two.)
+A. UPS
+B. Server rack
+C. PoE phone
+D. Desktop printer
+E. Modem
+F. Patch panel
+
+
+CompTIA A+ 220-1002 Question A-19
+Which of the following provide the BEST security for a server room? (Select two.)
+A. Badge reader
+B. Bollard
+C. Biometric lock
+D. Cable lock
+E. USB token
+F. Privacy window shades
+
+
+CompTIA A+ 220-1002 Question A-20
+Ann, an employee at a company, calls the help disk to report issues logging on to a vendor\'s website. Joe, the technician, is able to log in successfully with his credentials before going to Ann\'s office. However, when he attempts to log in from Ann\'s office, Joe experiences the same issue. Ann asks Joe questions about the new software installed on the laptop from the pop-up notification. Which of the following are the NEXT steps Joe should take to resolve the issue? (Select two.)
+A. Ask Ann for her credentials to verify and log on to the vendor\'s website from Ann\'s laptop
+B. Verify Ann\'s laptop has the correct browser settings
+C. Check all browser cached files on Ann\'s laptop and log on to another vendor\'s website
+D. Attempt to log on to another vendor\'s website from Ann\'s laptop
+E. Ask Ann about the notification and review the installed programs
+F. Reinstall the browser, reboot the laptop, and check the vendor\'s website again
+
+
+CompTIA A+ 220-1002 Question A-21
+An end user\'s PC is taking a long time to boot. Which of the following operations would be the BEST to resolve this issue with minimal expense? (Select two.)
+A. Remove applications from startup
+B. Defragment the hard drive
+C. Install additional RAM
+D. Install a faster hard drive
+E. End the processes in Task Manager
+F. Run the Disk Cleanup utility
+
+
+CompTIA A+ 220-1002 Question A-22
+An administrator is setting up a Windows terminal server. Which of the following settings should the administrator modify to increase server security? (Select two.)
+A. Change the default access port
+B. Enforce password complexity
+C. Put the terminal server into the routerâ€™s DMZ
+D. Disable logon time restrictions
+E. Block all unused ports on the LAN smart switch
+F. Use the local client certificate for server authentication
+
+
+CompTIA A+ 220-1002 Question A-23
+A SOHO customer has recently experienced a major hurricane. The customer has no backups and has lost all data and hardware associated with the company. The customer calls a contractor to assist in the rebuilding process and needs suggestions on the best way to prevent this from happening again. Which of the following recommendations should the contractor give to the customer? (Select two.)
+A. Backup testing
+B. Cloud storage
+C. Local storage backups
+D. Data recovery
+E. Hot site
+F. Waterproof devices
+
+
+CompTIA A+ 220-1002 Question A-24
+A small office\'s wireless network was compromised recently by an attacker who brute forced a PIN to gain access. The attacker then modified the DNS settings on the router and spread malware to the entire network. Which of the following configurations MOST likely allowed the attack to take place? (Select two.)
+A. Guest network
+B. TKIP
+C. Default login
+D. Outdated firmware
+E. WPS
+F. WEP
+
+
+CompTIA A+ 220-1002 Question A-25
+A technician receives an invalid certificate error when visiting a website with port 443 enabled. Other computers on the same LAN do not exhibit this symptom. Which of the following needs to be adjusted on the workstation to fix the issue?
+A. Date and time
+B. UEFI boot mode
+C. Logon times
+D. User access control
+
+
+CompTIA A+ 220-1002 Question A-26
+A user\'s phone contains customer\'s PII. The user cannot have the phone automatically wiped because the data is very valuable. Which of the following is the BEST method of securing the phone?
+A. Fingerprint lock
+B. Passcode lock
+C. Swipe lock
+D. PIN lock
+
+
+CompTIA A+ 220-1002 Question A-27
+A user who is running Windows XP calls a technician to upgrade the computer to a newer Windows OS. The user states the computer has only 1GB of RAM and 16GB of hard drive space with a 1,7GHz processor. Which of the following OSs should the technician recommended to ensure the BEST performance on this computer?
+A. Windows 7
+B. Windows 8
+C. Windows 8.1
+D. Windows 10
+
+
+CompTIA A+ 220-1002 Question A-28
+Which of the following security methods BEST describes when a user enters a username and password once for multiple applications?
+A. SSO
+B. Permission propagation
+C. Inheritance
+D. MFA
+
+
+CompTIA A+ 220-1002 Question A-29
+A technician is setting up a kiosk. The technician needs to ensure the kiosk is secure and users will have access to only the application needed for customer interaction. The technician must also ensure that whenever the computer is rebooted or powered on it logs on automatically without a password. Which of the following account types would the technician MOST likely set up on this kiosk machine?
+A. Guest
+B. Administrator
+C. Power User
+D. Remote Desktop User
+
+
+CompTIA A+ 220-1002 Question A-30
+A technician has been asked to recommend antivirus software for a home PC, but the user does not want to pay for a license. Which of the following license type should the technician recommend?
+A. Open license
+B. Personal license
+C. Corporate license
+D. Enterprise license
+
+
+CompTIA A+ 220-1002 Question A-31
+A user\'s Windows laptop has become consistently slower over time. The technician checks the CPU utilization and sees that it varies between 95% and 100%. After the technician closes some running applications, the CPU utilization drops to approximately 20%, and the laptop runs much faster. The next day the same user calls again with the same problem. Which of the following is a tool the technician can use to resolve the issue?
+A. Task Manager
+B. MSTSC
+C. MSConfig
+D. PerfMon
+
+
+CompTIA A+ 220-1002 Question A-32
+A user is requesting a solution that will prevent file corruption and ensure a graceful shutdown while providing at least one hour of uptime in case of extreme weather conditions. Which of the following should a technician recommend?
+A. Uninterruptible power supply
+B. Surge protector
+C. Power strip
+D. Power distribution unit
+
+
+CompTIA A+ 220-1002 Question A-33
+Which of the following installation types would require the use of an answer file to install the OS?
+A. Unattended
+B. Clean
+C. Repair
+D. Upgrade
+
+
+CompTIA A+ 220-1002 Question A-34
+A MAC user\'s operating system became corrupted, and files were deleted after malware was downloaded. The user needs to access the data that was previously stored on the MAC. Which of the following built-in utilities should be used?
+A. Time Machine
+B. Snapshot
+C. System Restore
+D. Boot Camp
+
+
+CompTIA A+ 220-1002 Question A-35
+After a virus has been spread unknowingly via USB removable hard drives, a technician is tasked with limiting removable hard drive access to certain network users. USB ports are used for many devices, including scanners, printers, and signature pads, so a policy is created to deny access to removable hard drives only. When testing the policy, a removable drive is plugged in but can still be accessed. Which of the following command-line tools should the technician use to apply the new policy?
+A. grupdate
+B. diskpart
+C. gpresult
+D. net use
+
+
+CompTIA A+ 220-1002 Question A-36
+Joe, a user, returns his computer to the technician who performed a virus removal on it the week before. Joe states that several symptoms have returned. Which of the following should the technician have covered previously as part of the original repair?
+A. End-user education
+B. Pre-installation environment cleaning
+C. Disabling of System Restore
+D. Infected system quarantine
+
+
+CompTIA A+ 220-1002 Question A-37
+In which of the following file extension types would a user expect to see the command. â€œnet use T:\serverfiles\'?
+A. .bat
+B. .vbs
+C. .js
+D. .py
+
+
+CompTIA A+ 220-1002 Question A-38
+A user calls the help desk regarding a new Windows issues that started in the morning. The user can no longer use any locally attached devices, such as a mouse or a printer, and a reboot did not fix the problem. Which of the following would MOST likely fix the issue?
+A. Roll back updates
+B. Disable the Windows Update service
+C. Check for updates
+D. Restore hidden updates
+
+
+CompTIA A+ 220-1002 Question A-39
+A technician is PXE booting a computer. Which of the following is the technician MOST likely performing on the computer?
+A. Image deployment
+B. Multiboot configuration
+C. In-place upgrade
+D. System repair
+
+
+CompTIA A+ 220-1002 Question A-40
+Joe, an end user, has been prompted to provide his username and password to access the payroll system. Which of the following authentication methods is being requested?
+A. Single-factor
+B. Multifactor
+C. RADIUS
+D. TACACS
+
+
+CompTIA A+ 220-1002 Question A-41
+Which of the following devices provides protection against brownouts?
+A. battery backup
+B. surge suppressor
+C. rack grounding
+D. line conditioner
+
+
+CompTIA A+ 220-1002 Question A-42
+A junior Linux system administrator needs to update system software. Which of the following shell commands would allow the administrator to gain the necessary permissions to update the software?
+A. sudo
+B. chmod
+C. grep
+D. pwd
+
+
+CompTIA A+ 220-1002 Question A-43
+A Windows user is attempting to install a local printer and is unsuccessful on permissions. Which of the following user types BEST describes this user?
+A. Guest
+B. Power User
+C. Administrator
+D. Standard User
+
+
+CompTIA A+ 220-1002 Question A-44
+A technician is working on a user\'s workstation and notices a lot of unknown processes running in the background. The user informs the technician that an application was recently downloaded from the Internet. Which of the following types of infection does the user MOST likely have?
+A. Rootkit
+B. Keylogger
+C. Trojan
+D. Ransomware
+
+
+CompTIA A+ 220-1002 Question A-45
+Which of the following features has undergone the most significant changes from Windows 7 to Windows 10 and greatly simplified the operating system installation process?
+A. Driver detection
+B. Metro interface
+C. Account control
+D. PXE installation
+
+
+CompTIA A+ 220-1002 Question A-46
+Which of the following is considered government-regulated data?
+A. PII
+B. End-user license agreement
+C. Digital Millennium Copyright Act
+D. DRM
+
+
+CompTIA A+ 220-1002 Question A-47
+A team needs to deploy a temporary server room at a site to provide support during construction. Which of the following should they use at this site while setting up the server room?
+A. Air filters
+B. Privacy screens
+C. Vacuums
+D. ESD mats
+
+
+CompTIA A+ 220-1002 Question A-48
+A company has hired a new IT firm to manage its network switches and routers. The firm is geographically separated from the company and will need to able to securely access the devices. Which of the following will provide the ability to access these devices?
+A. Telnet
+B. SSH
+C. RDP
+D. VNC
+
+
+CompTIA A+ 220-1002 Question A-49
+Which of the following is the amount of memory a user is limited to with a 32-bit version of Windows?
+A. 2GB
+B. 4GB
+C. 8GB
+D. 16GB
+
+
+CompTIA A+ 220-1002 Question A-50
+A technician is running updates on a Windows PC. Some of the updates install properly, while others appear as failed. While troubleshooting, the technician restarts the PC and attempts to install the failed updates again. The updates continue to fail. Which of the following is the FIRST option to check?
+A. Visit the Microsoft Update website to see if there is an issue with a specific update
+B. Look up the error number associated with the failed update
+C. Look at the system Event Viewer to find more information on the failure
+D. Download the failed update to install manually
+
+
+CompTIA A+ 220-1002 Question A-51
+A manager with a restricted user account receives the following error message: Windows Update cannot currently check for updates because the service is not running. The manager contacts the help desk to report the error. A technician remotely connects to the user\'s computer and identifies the problem. Which of the following should the technician do NEXT?
+A. Reboot the computer
+B. Restart the network services
+C. Roll back the device drivers
+D. Rebuild the Windows profiles
+
+
+CompTIA A+ 220-1002 Question A-52
+With which of the following types is a man-in-the-middle attack associated?
+A. Brute force
+B. Spoofing
+C. DDoS
+D. Zero-day
+
+
+CompTIA A+ 220-1002 Question A-53
+A SOHO user reports desktop applications are performing slowly, and no emails have been received all morning. A technician remotes in and determines Internet pages\' load slowly or not at all, CPU performance is normal, and the local router can successfully ping. The remote connection drops periodically. Which of the following steps should the technician take NEXT to resolve the problem?
+A. Reboot into safe mode, uninstall the latest OS update, and run a repair on the OS
+B. Update the antivirus software, run an antivirus scan, verify the browser settings, and check all email settings
+C. Reboot to BIOS setup, verify the TPM is enabled, and start a System Restore from safe mode
+D. Send a test email, open a command prompt to check the file system, and empty the browser cache
+
+
+CompTIA A+ 220-1002 Question A-54
+A network administrator has given a technician documentation detailing the switchports the technician will need to patch in for a network upgrade. Which of the following documents did the network administrator MOST likely give to the technician?
+A. Process diagram
+B. Physical network diagram
+C. Fiber backbone diagram
+D. Logical topology diagram
+
+
+CompTIA A+ 220-1002 Question A-55
+Ann, a user, calls a technician and reports that her PC will not boot. The technician confirms the memory, power supply, and monitor are all working. The technician runs internal diagnostics on the PC, but the hard drive is nor recognized. Which of the following messages will be displayed?
+A. NTLDR not found
+B. No boot device available
+C. Operating system not found
+D. BIOS ROM checksum error
+
+
+CompTIA A+ 220-1002 Question A-56
+Ann, a user, calls the help desk regarding an issue on her laptop. While working remotely, she appears to be connecting to WiFi but is unable to retrieve her corporate email. The wireless name is listed as â€œConnectMeâ€ and appears as unsecure. Which of the following should the help desk perform to fix the issue?
+A. Remote into Ann\'s system and restart the wireless adapter
+B. Ask Ann to open a browser and watch for a redirect page
+C. Advice Ann to pug an Ethernet cable into her laptop
+D. Direct Ann to run an antivirus program on her laptop
+
+
+CompTIA A+ 220-1002 Question A-57
+Which of the following is the maximum RAM limit of a Windows 32-bit version?
+A. no limit
+B. 4GB
+C. 8GB
+D. 32GB
+
+
+CompTIA A+ 220-1002 Question A-58
+An end user is browsing the Internet when multiple browser pages open by themselves. The user notices the PC is running slowly, even while not browsing the internet. Which of the following actions should the user take?
+A. Update antivirus definitions
+B. Install anti-malware software
+C. Enable the pop-up blocker
+D. Reboot the PC
+
+
+CompTIA A+ 220-1002 Question A-59
+A network administrator wants to plan a major OS upgrade of the router, which acts as a default gateway in an organization. The administrator has documented the purpose of the change, scoped the change, and completed a comprehensive risk analysis. Which of the following is an important part of the change request process for which the administrator still must plan?
+A. Inform management regarding the anticipated amount of downtime
+B. Document a backout plan to roll back changes to the router
+C. Configure a redundant data path to eliminate downtime
+D. Make the downtime window larger than actually anticipated
+
+
+CompTIA A+ 220-1002 Question A-60
+A client wants a technician to create a PC naming convention that will make the client\'s PCs easier to track and identify while in use. Which of the following naming convention formats should the technician follow?
+A. Domain name, location, IP address
+B. Domain name, location, asset ID
+C. Asset ID, MAC address
+D. Location, RFID
+
+
+CompTIA A+ 220-1002 Question A-61
+A technician has just finished installing a secondary OS on a workstation. After rebooting the computer, the technician receives the following error: No OS  The technician confirms the boot.ini file is correct. Which of the following is MOST likely causing this error? found.
+A. The computer has GRUB Legacy installed
+B. Windows Startup services are not running
+C. An incompatible partition is marked as active
+D. An unsupported version of Windows is installed
+
+
+CompTIA A+ 220-1002 Question A-62
+Joe, an employee, took a company-issues Windows laptop home, but is having trouble connecting to any of the shares hosted on his home media server. Joe has verified he is connected to the Internet. Which of the following would explain why Joe cannot access his personal shares?
+A. An IP conflict is present
+B. A corporate VPN is enabled
+C. A firewall exception must be set
+D. HomeGroup must be enabled
+
+
+CompTIA A+ 220-1002 Question A-63
+Joe, a customer, has informed a Tier 2 help desk technician that a computer will not boot up. After about ten minutes of troubleshooting, Joe is increasingly concerned and claims that the technician is wasting his time because he has already tried everything that has been suggested. Which of the following should the technician do?
+A. Since Joe is concerned about time, suggest calling back later when Joe has more time to troubleshoot
+B. Record the call and send it to the local intranet for future technicians to learn how to deal with calls like this one
+C. Ask more open-ended questions to see if the issue can be narrowed down in order to properly identify the issue and save time
+D. Inform the customer that there is a troubleshooting script that must be followed to get the issue resolved
+
+
+CompTIA A+ 220-1002 Question A-64
+A technician needs to edit a protected .dll file but cannot find the file in the System32 directory. Which of the following Control Panel utilities should the technician use?
+A. System
+B. Display
+C. Folder Options
+D. Indexing Options
+
+
+CompTIA A+ 220-1002 Question A-65
+A manager requests remote access to a server after hours and on weekends to check data. The manager insists on using the server. Before granting the access, which of the following is the MOST important step a technician can take to protect against possible infection?
+A. Create a policy to remove Internet access from the server during off hours
+B. Set the local antivirus software on the server to update and scan daily
+C. Ensure the server is patched with the latest security updates
+D. Educate the manager on safe Internet browsing practices
+
+
+CompTIA A+ 220-1002 Question A-66
+An employee reported that a suspicious individual was looking through the recycle bin. Which of the following types of social engineering threats is this?
+A. Phishing
+B. Spear phishing
+C. Dumpster diving
+D. Impersonation
+
+
+CompTIA A+ 220-1002 Question A-67
+Ann, a user, is attempting to log in to her email service form a third-party email client on her phone. When Ann enters her usual username and password, she receives an error message saying the credentials are invalid. Ann then decides to reset her email password, but after the reset, the new credentials still do not work in the third-party email client. Which of the following settings or features is responsible for the problems Ann is experiencing?
+A. Full device encryption
+B. Account lock
+C. Multifactor authentication
+D. Strong password requirements
+
+
+CompTIA A+ 220-1002 Question A-68
+Which of the following steps should a technician take FIRST to prevent an electrical hazard when repairing a PC?
+A. Put on an ESD strap.
+B. Place components on an ESD mat
+C. Disconnect the power before servicing the PC
+D. Place the PC on a grounded work bench
+
+
+CompTIA A+ 220-1002 Question A-69
+A project team is organized to implement a new wireless solution for a school. The team has already done the network diagrams and knows the locations that will need to be addressed in the project. The team is in the process of creating an SOW for the project as a whole and needs to add the critical pieces to the SOW to complete it and move to the next stage. Which of the following would the project team MOST likely add to the SOW?
+A. Risk analysis
+B. Plan to change
+C. Backout plan
+D. Change board approvals
+
+
+CompTIA A+ 220-1002 Question A-70
+A technician is installing the latest OS on a user\'s system. The user wants all of the settings and file to remain intact during the installation. Which of the following upgrade methods should the technician use?
+A. network installation
+B. clean install
+C. in-place upgrade
+D. image deployment
+
+
+CompTIA A+ 220-1002 Question A-71
+A technician is recycling PCs to be reused by a middle school. Which of the following methods is MOST appropriate for ensuring data has been removed from the PCs?
+A. Standard formatting
+B. HD drilling
+C. Low-level formatting
+D. HD partitioning
+
+
+CompTIA A+ 220-1002 Question A-72
+An employee is unable to view in-office network folders while working at home. Which of the following is the MOST likely cause of the problem?
+A. Untrusted software
+B. Outdated antivirus
+C. MDM policies
+D. Inactive VPN
+
+
+CompTIA A+ 220-1002 Question A-73
+A technician arrives on site to find that two users who have the same model on Android smartphone are having the same issue with a specific application. Whenever they attempt to launch the application, it fails and gives an error message. Which of the following should the technician do FIRST?
+A. Reinstall the application
+B. Roll back the application to the earlier version
+C. Clear the application cache
+D. Update the OS of the smartphones
+
+
+CompTIA A+ 220-1002 Question A-74
+Which of the following threats uses personalized information in an attempt at obtaining information?
+A. Whaling
+B. Impersonation
+C. Spoofing
+D. Spear phishing
+
+
+CompTIA A+ 220-1002 Question A-75
+A technician is installing a private PC in a public workspace. Which of the following password practices should the technician implement on the PC to secure network access?
+A. Remove the guest account from the administrators group
+B. Disable single sign-on
+C. Issue a default strong password for all users
+D. Require authentication on wake-up
+
+
+CompTIA A+ 220-1002 Question A-76
+A technician has identified malware on a user\'s system. Which of the following should the technician do NEXT according to malware removal best practices?
+A. Enable System Restore and create a restore point so no data is lost
+B. Educate the user about how to avoid malware in the future
+C. Update the antivirus software and run a full system scan
+D. Move the infected system to a lab with no network connectivity
+
+
+CompTIA A+ 220-1002 Question A-77
+A user contacts a technician to troubleshoot server errors. The user explains that some files will not open on the server, the data backups are operational, and the weather has been bad. The technician notices missing time slots in the event log. Which of the following should the technician replace to prevent these issues in the future?
+A. System memory
+B. Surge protector
+C. Hard drives
+D. Battery backup
+
+
+CompTIA A+ 220-1002 Question A-78
+A desktop technician is attempting to upgrade several machines to Windows 10. After releasing there is only one disc for the installation, the technician decides to upgrade over the network. Which of the following boot methods initiates such an upgrade?
+A. SSD
+B. Optical drive
+C. Flash drive
+D. PXE
+
+
+CompTIA A+ 220-1002 Question A-79
+Which of the following technologies is used by malicious employees to obtain user passwords?
+A. Main-in-the-middle
+B. Phishing
+C. Tailgating
+D. Shoulder surfing
+
+
+CompTIA A+ 220-1002 Question A-80
+A technician is installing Windows 7 64-bit OS on a VM but keeps getting errors. The specifications for the malware are: – Two 1GHz CPUs – 2GB of memory – 15GB hard drive – 800×600 screen resolution Which of the following should the technician do to resolve the problem?
+A. Increase the number of CPUs
+B. Increase the amount of memory
+C. Increase the amount of hard drive space
+D. Increase the screen resolution
+
+

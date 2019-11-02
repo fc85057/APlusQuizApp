@@ -8,6 +8,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using APlusQuizApp.Model;
 using APlusQuizApp.Utility;
+using APlusQuizApp.Service;
 
 namespace APlusQuizApp.ViewModel
 {
@@ -17,29 +18,20 @@ namespace APlusQuizApp.ViewModel
         private List<Question> questionList;
         private Question currentQuestion;
         private int currentQuestionInt;
-        private string questionText;
-        private IList<ItemsPresenter> test;
+        private Grader grader = new Grader();
 
-        public IList<ItemsPresenter> Test
-        {
-            get
-            {
-                return test;
-            }
-            set
-            {
-                test = value;
-                RaisePropertyChanged("Test");
-            }
-        }
+        public MainWindowViewModel ParentWindow;
 
         public ICommand NextCommand { get; set; }
         public ICommand PreviousCommand { get; set; }
+
+        public ICommand SubmitCommand { get; set; }
 
         public void LoadCommands()
         {
             NextCommand = new RelayCommand(LoadNextQuestion, CanLoadNextQuestion);
             PreviousCommand = new RelayCommand(LoadPreviousQuestion, CanLoadPreviousQuestion);
+            SubmitCommand = new RelayCommand(SubmitAnswers, CanSubmit);
         }
         
 
@@ -52,7 +44,6 @@ namespace APlusQuizApp.ViewModel
 
         public void LoadNextQuestion(object obj)
         {
-            MessageBox.Show(Test.ToString());
             CurrentQuestionInt += 1;
             CurrentQuestion = QuestionList[CurrentQuestionInt];
         }
@@ -66,6 +57,32 @@ namespace APlusQuizApp.ViewModel
         {
             CurrentQuestionInt -= 1;
             CurrentQuestion = QuestionList[CurrentQuestionInt];
+        }
+
+        public bool CanSubmit(object obj)
+        {
+            foreach (Question question in QuestionList)
+            {
+                bool isAnswered = false;
+                foreach (Answer answer in question.Answers)
+                {
+                    if (answer.IsSelected)
+                    {
+                        isAnswered = true;
+                    }
+                }
+                if (!isAnswered)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+
+        public void SubmitAnswers(object obj)
+        {
+            int score = grader.GradeTest(QuestionList);
+            ParentWindow.LoadResultVM(QuestionList, score);
         }
 
         public List<Question> QuestionList
@@ -96,8 +113,9 @@ namespace APlusQuizApp.ViewModel
             }
         }
 
-        public QuestionViewModel(List<Question> questions)
+        public QuestionViewModel(MainWindowViewModel parentWindow, List<Question> questions)
         {
+            ParentWindow = parentWindow;
             QuestionList = questions;
             CurrentQuestion = questions[0];
             CurrentQuestionInt = 0;
@@ -131,7 +149,7 @@ namespace APlusQuizApp.ViewModel
             }
         }
 
-        public List<string> Answers
+        public List<Answer> Answers
         {
             get
             {

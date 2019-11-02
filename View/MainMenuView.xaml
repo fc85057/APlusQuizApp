@@ -5,7 +5,7 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:APlusQuizApp.View"
              mc:Ignorable="d" 
-             d:DesignHeight="325" d:DesignWidth="300">
+             d:DesignHeight="375" d:DesignWidth="300">
     <Grid Background="Gray">
         <StackPanel Margin="20">
             <Label HorizontalAlignment="Center" Content="A+ Practice Quiz App" FontSize="20" FontWeight="Bold" />

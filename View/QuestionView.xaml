@@ -4,15 +4,29 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:APlusQuizApp.View"
+             xmlns:model="clr-namespace:APlusQuizApp.Model"
              mc:Ignorable="d" 
-             d:DesignHeight="325" d:DesignWidth="300">
+             d:DesignHeight="375" d:DesignWidth="300">
+
+    <UserControl.Resources>
+        <DataTemplate DataType="{x:Type model:Answer}">
+            <TextBlock TextWrapping="WrapWithOverflow" Text="{Binding AnswerText}" />
+        </DataTemplate>
+    </UserControl.Resources>
     <Grid Background="LightGray">
         <StackPanel>
             <TextBlock Text="{Binding QuestionText}" TextWrapping="WrapWithOverflow" />
             <Separator />
-            <ListBox x:Name="AnswerBox" ItemsSource="{Binding Answers}" SelectionMode="Multiple"/>
+            <ListBox x:Name="AnswerBox" ItemsSource="{Binding Answers}" SelectionMode="Multiple" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                <ListBox.ItemContainerStyle>
+                    <Style TargetType="{x:Type ListBoxItem}">
+                        <Setter Property="IsSelected" Value="{Binding IsSelected, Mode=TwoWay}" />
+                    </Style>
+                </ListBox.ItemContainerStyle>
+            </ListBox>
             <Grid>
                 <Button Content="Previous" HorizontalAlignment="Left" Command="{Binding PreviousCommand}"/>
+                <Button Content="Submit" HorizontalAlignment="Center" Command="{Binding SubmitCommand}" />
                 <Button Content="Next" HorizontalAlignment="Right" Command="{Binding NextCommand}" CommandParameter="{Binding ElementName=AnswerBox, Path=SelectedItems}" />
             </Grid>
         </StackPanel>

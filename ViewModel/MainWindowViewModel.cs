@@ -13,14 +13,12 @@ namespace APlusQuizApp.ViewModel
 
         public MainMenuViewModel mainMenuVm;
         public QuestionViewModel questionVm;
+        public ResultViewModel resultVm;
 
         public MainWindowViewModel()
         {
             mainMenuVm = new MainMenuViewModel(this);
-            // questionVm = new QuestionViewModel();
-
             CurrentViewModel = mainMenuVm;
-
         }
 
         private object currentViewModel;
@@ -39,8 +37,14 @@ namespace APlusQuizApp.ViewModel
 
         public void LoadQuestionVM(List<Question> questions)
         {
-            questionVm = new QuestionViewModel(questions);
+            questionVm = new QuestionViewModel(this, questions);
             CurrentViewModel = questionVm;
+        }
+
+        public void LoadResultVM(List<Question> questions, int score)
+        {
+            resultVm = new ResultViewModel(this, questions, score);
+            CurrentViewModel = resultVm;
         }
 
     }

@@ -1,0 +1,240 @@
+CompTIA A+ 220-1002 Question A-1
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-2
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-3
+Correct Answer: B 
+
+CompTIA A+ 220-1002 Question A-4
+Correct Answer: B 
+
+CompTIA A+ 220-1002 Question A-5
+Correct Answer: B 
+
+CompTIA A+ 220-1002 Question A-6
+Correct Answer: B 
+
+CompTIA A+ 220-1002 Question A-7
+Correct Answer: BD 
+
+CompTIA A+ 220-1002 Question A-8
+Correct Answer: C 
+
+CompTIA A+ 220-1002 Question A-9
+Correct Answer: D 
+
+CompTIA A+ 220-1002 Question A-10
+Correct Answer: E 
+
+CompTIA A+ 220-1002 Question A-11
+Correct Answer: BE 
+
+CompTIA A+ 220-1002 Question A-12
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-13
+Correct Answer: BC 
+
+CompTIA A+ 220-1002 Question A-14
+Correct Answer: BE 
+
+CompTIA A+ 220-1002 Question A-15
+Correct Answer: AE 
+
+CompTIA A+ 220-1002 Question A-16
+Correct Answer: AC 
+
+CompTIA A+ 220-1002 Question A-17
+Correct Answer: BF 
+
+CompTIA A+ 220-1002 Question A-18
+Correct Answer: AB 
+
+CompTIA A+ 220-1002 Question A-19
+Correct Answer: AC 
+
+CompTIA A+ 220-1002 Question A-20
+Correct Answer: CE 
+
+CompTIA A+ 220-1002 Question A-21
+Correct Answer: AB 
+
+CompTIA A+ 220-1002 Question A-22
+Correct Answer: CE 
+
+CompTIA A+ 220-1002 Question A-23
+Correct Answer: BE 
+
+CompTIA A+ 220-1002 Question A-24
+Correct Answer: CF 
+
+CompTIA A+ 220-1002 Question A-25
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-26
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-27
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-28
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-29
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-30
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-31
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-32
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-33
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-34
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-35
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-36
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-37
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-38
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-39
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-40
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-41
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-42
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-43
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-44
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-45
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-46
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-47
+Correct Answer: A 
+
+CompTIA A+ 220-1002 Question A-48
+Correct Answer: B 
+
+CompTIA A+ 220-1002 Question A-49
+Correct Answer: B 
+
+CompTIA A+ 220-1002 Question A-50
+Correct Answer: B 
+
+CompTIA A+ 220-1002 Question A-51
+Correct Answer: B 
+
+CompTIA A+ 220-1002 Question A-52
+Correct Answer: B 
+
+CompTIA A+ 220-1002 Question A-53
+Correct Answer: B 
+
+CompTIA A+ 220-1002 Question A-54
+Correct Answer: B 
+
+CompTIA A+ 220-1002 Question A-55
+Correct Answer: B 
+
+CompTIA A+ 220-1002 Question A-56
+Correct Answer: B 
+
+CompTIA A+ 220-1002 Question A-57
+Correct Answer: B 
+
+CompTIA A+ 220-1002 Question A-58
+Correct Answer: B 
+
+CompTIA A+ 220-1002 Question A-59
+Correct Answer: B 
+
+CompTIA A+ 220-1002 Question A-60
+Correct Answer: C 
+
+CompTIA A+ 220-1002 Question A-61
+Correct Answer: C 
+
+CompTIA A+ 220-1002 Question A-62
+Correct Answer: C 
+
+CompTIA A+ 220-1002 Question A-63
+Correct Answer: C 
+
+CompTIA A+ 220-1002 Question A-64
+Correct Answer: C 
+
+CompTIA A+ 220-1002 Question A-65
+Correct Answer: C 
+
+CompTIA A+ 220-1002 Question A-66
+Correct Answer: C 
+
+CompTIA A+ 220-1002 Question A-67
+Correct Answer: C 
+
+CompTIA A+ 220-1002 Question A-68
+Correct Answer: C 
+
+CompTIA A+ 220-1002 Question A-69
+Correct Answer: C 
+
+CompTIA A+ 220-1002 Question A-70
+Correct Answer: C 
+
+CompTIA A+ 220-1002 Question A-71
+Correct Answer: C 
+
+CompTIA A+ 220-1002 Question A-72
+Correct Answer: D
+
+CompTIA A+ 220-1002 Question A-73
+Correct Answer: D 
+
+CompTIA A+ 220-1002 Question A-74
+Correct Answer: D 
+
+CompTIA A+ 220-1002 Question A-75
+Correct Answer: D 
+
+CompTIA A+ 220-1002 Question A-76
+Correct Answer: D 
+
+CompTIA A+ 220-1002 Question A-77
+Correct Answer: D 
+
+CompTIA A+ 220-1002 Question A-78
+Correct Answer: D 
+
+CompTIA A+ 220-1002 Question A-79
+Correct Answer: D 
+
+CompTIA A+ 220-1002 Question A-80
+Correct Answer: C 
+

@@ -55,18 +55,24 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Model\Answer.cs" />
     <Compile Include="Model\Question.cs" />
+    <Compile Include="Service\Grader.cs" />
     <Compile Include="Service\QuestionLoader.cs" />
     <Compile Include="Utility\RelayCommand.cs" />
     <Compile Include="ViewModel\MainMenuViewModel.cs" />
     <Compile Include="ViewModel\MainWindowViewModel.cs" />
     <Compile Include="ViewModel\QuestionViewModel.cs" />
+    <Compile Include="ViewModel\ResultViewModel.cs" />
     <Compile Include="ViewModel\ViewModelBase.cs" />
     <Compile Include="View\MainMenuView.xaml.cs">
       <DependentUpon>MainMenuView.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\QuestionView.xaml.cs">
       <DependentUpon>QuestionView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ResultView.xaml.cs">
+      <DependentUpon>ResultView.xaml</DependentUpon>
     </Compile>
     <Page Include="View\MainWindowView.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -85,6 +91,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="View\QuestionView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\ResultView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -119,6 +129,9 @@
     <Resource Include="Questions\1001_questions.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Questions\1001_answer_key.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

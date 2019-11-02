@@ -113,20 +113,8 @@ namespace APlusQuizApp.ViewModel
         private void StartQuiz(object obj)
         {
             QuestionService = new QuestionLoader(NumberOfQuestions);
-            questions = QuestionService.LoadQuestions();
+            questions = QuestionService.LoadQuestions(Include901, Include902, Include1001, Include1002);
             ParentWindow.LoadQuestionVM(questions);
-            /*
-            ParentWindow.questionVm.QuestionList = questions;
-            ParentWindow.questionVm.CurrentQuestion = questions[0];
-
-            ParentWindow.questionVm.RaisePropertyChanged("CurrentQuestion");
-            ParentWindow.questionVm.RaisePropertyChanged("QuestionText");
-            ParentWindow.CurrentViewModel = ParentWindow.questionVm;
-            ParentWindow.questionVm.RaisePropertyChanged("CurrentQuestion");
-            ParentWindow.questionVm.RaisePropertyChanged("QuestionText");
-
-            MessageBox.Show(ParentWindow.questionVm.CurrentQuestion.Id);
-            */
         }
 
     }
