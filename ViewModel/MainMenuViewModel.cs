@@ -61,7 +61,7 @@ namespace APlusQuizApp.ViewModel
             set
             {
                 include902 = value;
-                RaisePropertyChanged("Include901");
+                RaisePropertyChanged("Include902");
             }
         }
 
@@ -74,7 +74,7 @@ namespace APlusQuizApp.ViewModel
             set
             {
                 include1001 = value;
-                RaisePropertyChanged("Include901");
+                RaisePropertyChanged("Include1001");
             }
         }
 
@@ -87,7 +87,7 @@ namespace APlusQuizApp.ViewModel
             set
             {
                 include1002 = value;
-                RaisePropertyChanged("Include901");
+                RaisePropertyChanged("Include1002");
             }
         }
 
